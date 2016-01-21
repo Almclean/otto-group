@@ -1,2 +1,0 @@
-import graphlab
-graphlab.product_key.set_product_key('CC2F-572A-E2BD-0005-17F0-75C6-6890-AEC3')
